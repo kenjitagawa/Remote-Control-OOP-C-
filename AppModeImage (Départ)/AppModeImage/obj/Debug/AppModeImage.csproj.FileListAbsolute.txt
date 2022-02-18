@@ -1,0 +1,58 @@
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage\AppModeImage\bin\Debug\AppModeImage.exe.config
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage\AppModeImage\bin\Debug\AppModeImage.exe
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage\AppModeImage\bin\Debug\AppModeImage.pdb
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage\AppModeImage\bin\Debug\VisualArrays.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage\AppModeImage\obj\Debug\AppModeImage.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage\AppModeImage\obj\Debug\AppModeImage.FrmPrincipal.resources
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage\AppModeImage\obj\Debug\AppModeImage.Properties.Resources.resources
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage\AppModeImage\obj\Debug\AppModeImage.csproj.GenerateResource.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage\AppModeImage\obj\Debug\AppModeImage.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage\AppModeImage\obj\Debug\AppModeImage.csproj.CopyComplete
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage\AppModeImage\obj\Debug\AppModeImage.exe
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage\AppModeImage\obj\Debug\AppModeImage.pdb
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution) H21.1.0\AppModeImage\bin\Debug\AppModeImage.exe.config
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution) H21.1.0\AppModeImage\bin\Debug\AppModeImage.exe
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution) H21.1.0\AppModeImage\bin\Debug\AppModeImage.pdb
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution) H21.1.0\AppModeImage\bin\Debug\VisualArrays.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution) H21.1.0\AppModeImage\obj\Debug\AppModeImage.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution) H21.1.0\AppModeImage\obj\Debug\AppModeImage.FrmPrincipal.resources
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution) H21.1.0\AppModeImage\obj\Debug\AppModeImage.Properties.Resources.resources
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution) H21.1.0\AppModeImage\obj\Debug\AppModeImage.csproj.GenerateResource.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution) H21.1.0\AppModeImage\obj\Debug\AppModeImage.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution) H21.1.0\AppModeImage\obj\Debug\AppModeImage.csproj.CopyComplete
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution) H21.1.0\AppModeImage\obj\Debug\AppModeImage.exe
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution) H21.1.0\AppModeImage\obj\Debug\AppModeImage.pdb
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution+Corr) H21.1.0\AppModeImage\bin\Debug\AppModeImage.exe.config
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution+Corr) H21.1.0\AppModeImage\bin\Debug\AppModeImage.exe
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution+Corr) H21.1.0\AppModeImage\bin\Debug\AppModeImage.pdb
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution+Corr) H21.1.0\AppModeImage\bin\Debug\VisualArrays.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution+Corr) H21.1.0\AppModeImage\obj\Debug\AppModeImage.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution+Corr) H21.1.0\AppModeImage\obj\Debug\AppModeImage.FrmPrincipal.resources
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution+Corr) H21.1.0\AppModeImage\obj\Debug\AppModeImage.Properties.Resources.resources
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution+Corr) H21.1.0\AppModeImage\obj\Debug\AppModeImage.csproj.GenerateResource.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution+Corr) H21.1.0\AppModeImage\obj\Debug\AppModeImage.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution+Corr) H21.1.0\AppModeImage\obj\Debug\AppModeImage.csproj.CopyComplete
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution+Corr) H21.1.0\AppModeImage\obj\Debug\AppModeImage.exe
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution+Corr) H21.1.0\AppModeImage\obj\Debug\AppModeImage.pdb
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P1 AppModeImage (Matériel) H21.1.0\AppModeImage (Départ)\AppModeImage\bin\Debug\AppModeImage.exe.config
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P1 AppModeImage (Matériel) H21.1.0\AppModeImage (Départ)\AppModeImage\bin\Debug\AppModeImage.exe
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P1 AppModeImage (Matériel) H21.1.0\AppModeImage (Départ)\AppModeImage\bin\Debug\AppModeImage.pdb
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P1 AppModeImage (Matériel) H21.1.0\AppModeImage (Départ)\AppModeImage\obj\Debug\AppModeImage.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P1 AppModeImage (Matériel) H21.1.0\AppModeImage (Départ)\AppModeImage\obj\Debug\AppModeImage.FrmPrincipal.resources
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P1 AppModeImage (Matériel) H21.1.0\AppModeImage (Départ)\AppModeImage\obj\Debug\AppModeImage.Properties.Resources.resources
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P1 AppModeImage (Matériel) H21.1.0\AppModeImage (Départ)\AppModeImage\obj\Debug\AppModeImage.csproj.GenerateResource.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P1 AppModeImage (Matériel) H21.1.0\AppModeImage (Départ)\AppModeImage\obj\Debug\AppModeImage.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P1 AppModeImage (Matériel) H21.1.0\AppModeImage (Départ)\AppModeImage\obj\Debug\AppModeImage.csproj.CopyComplete
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P1 AppModeImage (Matériel) H21.1.0\AppModeImage (Départ)\AppModeImage\obj\Debug\AppModeImage.exe
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P1 AppModeImage (Matériel) H21.1.0\AppModeImage (Départ)\AppModeImage\obj\Debug\AppModeImage.pdb
+C:\Users\Kenji\Desktop\Programming 2\TP2P1 AppModeImage (Matériel) H21.1.2\AppModeImage (Départ)\AppModeImage\bin\Debug\AppModeImage.exe.config
+C:\Users\Kenji\Desktop\Programming 2\TP2P1 AppModeImage (Matériel) H21.1.2\AppModeImage (Départ)\AppModeImage\bin\Debug\AppModeImage.exe
+C:\Users\Kenji\Desktop\Programming 2\TP2P1 AppModeImage (Matériel) H21.1.2\AppModeImage (Départ)\AppModeImage\bin\Debug\AppModeImage.pdb
+C:\Users\Kenji\Desktop\Programming 2\TP2P1 AppModeImage (Matériel) H21.1.2\AppModeImage (Départ)\AppModeImage\obj\Debug\AppModeImage.csproj.AssemblyReference.cache
+C:\Users\Kenji\Desktop\Programming 2\TP2P1 AppModeImage (Matériel) H21.1.2\AppModeImage (Départ)\AppModeImage\obj\Debug\AppModeImage.FrmPrincipal.resources
+C:\Users\Kenji\Desktop\Programming 2\TP2P1 AppModeImage (Matériel) H21.1.2\AppModeImage (Départ)\AppModeImage\obj\Debug\AppModeImage.Properties.Resources.resources
+C:\Users\Kenji\Desktop\Programming 2\TP2P1 AppModeImage (Matériel) H21.1.2\AppModeImage (Départ)\AppModeImage\obj\Debug\AppModeImage.csproj.GenerateResource.cache
+C:\Users\Kenji\Desktop\Programming 2\TP2P1 AppModeImage (Matériel) H21.1.2\AppModeImage (Départ)\AppModeImage\obj\Debug\AppModeImage.csproj.CoreCompileInputs.cache
+C:\Users\Kenji\Desktop\Programming 2\TP2P1 AppModeImage (Matériel) H21.1.2\AppModeImage (Départ)\AppModeImage\obj\Debug\AppModeImage.csproj.CopyComplete
+C:\Users\Kenji\Desktop\Programming 2\TP2P1 AppModeImage (Matériel) H21.1.2\AppModeImage (Départ)\AppModeImage\obj\Debug\AppModeImage.exe
+C:\Users\Kenji\Desktop\Programming 2\TP2P1 AppModeImage (Matériel) H21.1.2\AppModeImage (Départ)\AppModeImage\obj\Debug\AppModeImage.pdb

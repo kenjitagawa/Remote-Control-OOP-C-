@@ -1,0 +1,74 @@
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution) H21.1.0\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution) H21.1.0\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution) H21.1.0\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution) H21.1.0\UnitTestProject1\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution) H21.1.0\UnitTestProject1\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution) H21.1.0\UnitTestProject1\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution) H21.1.0\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution) H21.1.0\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution) H21.1.0\UnitTestProject1\bin\Debug\AppModeImage.exe
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution) H21.1.0\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution) H21.1.0\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution) H21.1.0\UnitTestProject1\bin\Debug\AppModeImage.pdb
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution) H21.1.0\UnitTestProject1\bin\Debug\AppModeImage.exe.config
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution) H21.1.0\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution) H21.1.0\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution) H21.1.0\UnitTestProject1\obj\Debug\Correcteur_AppModeImage.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution) H21.1.0\UnitTestProject1\obj\Debug\Correcteur_AppModeImage.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution) H21.1.0\UnitTestProject1\obj\Debug\Correcteur_AppModeImage.csproj.CopyComplete
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution) H21.1.0\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppModeImage (Solution) H21.1.0\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\Tp2 ModeImage (Matériel) H21.1.0\AppModeImage (Départ)\Correcteur_ModeImage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\Tp2 ModeImage (Matériel) H21.1.0\AppModeImage (Départ)\Correcteur_ModeImage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\Tp2 ModeImage (Matériel) H21.1.0\AppModeImage (Départ)\Correcteur_ModeImage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\Tp2 ModeImage (Matériel) H21.1.0\AppModeImage (Départ)\Correcteur_ModeImage\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\Tp2 ModeImage (Matériel) H21.1.0\AppModeImage (Départ)\Correcteur_ModeImage\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\Tp2 ModeImage (Matériel) H21.1.0\AppModeImage (Départ)\Correcteur_ModeImage\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\Tp2 ModeImage (Matériel) H21.1.0\AppModeImage (Départ)\Correcteur_ModeImage\bin\Debug\UnitTestProject1.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\Tp2 ModeImage (Matériel) H21.1.0\AppModeImage (Départ)\Correcteur_ModeImage\bin\Debug\UnitTestProject1.pdb
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\Tp2 ModeImage (Matériel) H21.1.0\AppModeImage (Départ)\Correcteur_ModeImage\bin\Debug\AppModeImage.exe
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\Tp2 ModeImage (Matériel) H21.1.0\AppModeImage (Départ)\Correcteur_ModeImage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\Tp2 ModeImage (Matériel) H21.1.0\AppModeImage (Départ)\Correcteur_ModeImage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\Tp2 ModeImage (Matériel) H21.1.0\AppModeImage (Départ)\Correcteur_ModeImage\bin\Debug\AppModeImage.pdb
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\Tp2 ModeImage (Matériel) H21.1.0\AppModeImage (Départ)\Correcteur_ModeImage\bin\Debug\AppModeImage.exe.config
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\Tp2 ModeImage (Matériel) H21.1.0\AppModeImage (Départ)\Correcteur_ModeImage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\Tp2 ModeImage (Matériel) H21.1.0\AppModeImage (Départ)\Correcteur_ModeImage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\Tp2 ModeImage (Matériel) H21.1.0\AppModeImage (Départ)\Correcteur_ModeImage\obj\Debug\Correcteur_AppModeImage.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\Tp2 ModeImage (Matériel) H21.1.0\AppModeImage (Départ)\Correcteur_ModeImage\obj\Debug\Correcteur_AppModeImage.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\Tp2 ModeImage (Matériel) H21.1.0\AppModeImage (Départ)\Correcteur_ModeImage\obj\Debug\Correcteur_AppModeImage.csproj.CopyComplete
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\Tp2 ModeImage (Matériel) H21.1.0\AppModeImage (Départ)\Correcteur_ModeImage\obj\Debug\UnitTestProject1.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\Tp2 ModeImage (Matériel) H21.1.0\AppModeImage (Départ)\Correcteur_ModeImage\obj\Debug\UnitTestProject1.pdb
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P1 AppModeImage (Matériel) H21.1.0\AppModeImage (Départ)\Correcteur_ModeImage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P1 AppModeImage (Matériel) H21.1.0\AppModeImage (Départ)\Correcteur_ModeImage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P1 AppModeImage (Matériel) H21.1.0\AppModeImage (Départ)\Correcteur_ModeImage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P1 AppModeImage (Matériel) H21.1.0\AppModeImage (Départ)\Correcteur_ModeImage\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P1 AppModeImage (Matériel) H21.1.0\AppModeImage (Départ)\Correcteur_ModeImage\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P1 AppModeImage (Matériel) H21.1.0\AppModeImage (Départ)\Correcteur_ModeImage\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P1 AppModeImage (Matériel) H21.1.0\AppModeImage (Départ)\Correcteur_ModeImage\bin\Debug\UnitTestProject1.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P1 AppModeImage (Matériel) H21.1.0\AppModeImage (Départ)\Correcteur_ModeImage\bin\Debug\UnitTestProject1.pdb
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P1 AppModeImage (Matériel) H21.1.0\AppModeImage (Départ)\Correcteur_ModeImage\bin\Debug\AppModeImage.exe
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P1 AppModeImage (Matériel) H21.1.0\AppModeImage (Départ)\Correcteur_ModeImage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P1 AppModeImage (Matériel) H21.1.0\AppModeImage (Départ)\Correcteur_ModeImage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P1 AppModeImage (Matériel) H21.1.0\AppModeImage (Départ)\Correcteur_ModeImage\bin\Debug\AppModeImage.pdb
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P1 AppModeImage (Matériel) H21.1.0\AppModeImage (Départ)\Correcteur_ModeImage\bin\Debug\AppModeImage.exe.config
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P1 AppModeImage (Matériel) H21.1.0\AppModeImage (Départ)\Correcteur_ModeImage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P1 AppModeImage (Matériel) H21.1.0\AppModeImage (Départ)\Correcteur_ModeImage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P1 AppModeImage (Matériel) H21.1.0\AppModeImage (Départ)\Correcteur_ModeImage\obj\Debug\Correcteur_AppModeImage.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P1 AppModeImage (Matériel) H21.1.0\AppModeImage (Départ)\Correcteur_ModeImage\obj\Debug\Correcteur_AppModeImage.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P1 AppModeImage (Matériel) H21.1.0\AppModeImage (Départ)\Correcteur_ModeImage\obj\Debug\Correcteur_AppModeImage.csproj.CopyComplete
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P1 AppModeImage (Matériel) H21.1.0\AppModeImage (Départ)\Correcteur_ModeImage\obj\Debug\UnitTestProject1.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P1 AppModeImage (Matériel) H21.1.0\AppModeImage (Départ)\Correcteur_ModeImage\obj\Debug\UnitTestProject1.pdb
+C:\Users\Kenji\Desktop\Programming 2\TP2P1 AppModeImage (Matériel) H21.1.2\AppModeImage (Départ)\Correcteur_ModeImage\bin\Debug\UnitTestProject1.dll
+C:\Users\Kenji\Desktop\Programming 2\TP2P1 AppModeImage (Matériel) H21.1.2\AppModeImage (Départ)\Correcteur_ModeImage\bin\Debug\UnitTestProject1.pdb
+C:\Users\Kenji\Desktop\Programming 2\TP2P1 AppModeImage (Matériel) H21.1.2\AppModeImage (Départ)\Correcteur_ModeImage\bin\Debug\AppModeImage.exe
+C:\Users\Kenji\Desktop\Programming 2\TP2P1 AppModeImage (Matériel) H21.1.2\AppModeImage (Départ)\Correcteur_ModeImage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Kenji\Desktop\Programming 2\TP2P1 AppModeImage (Matériel) H21.1.2\AppModeImage (Départ)\Correcteur_ModeImage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Kenji\Desktop\Programming 2\TP2P1 AppModeImage (Matériel) H21.1.2\AppModeImage (Départ)\Correcteur_ModeImage\bin\Debug\AppModeImage.pdb
+C:\Users\Kenji\Desktop\Programming 2\TP2P1 AppModeImage (Matériel) H21.1.2\AppModeImage (Départ)\Correcteur_ModeImage\bin\Debug\AppModeImage.exe.config
+C:\Users\Kenji\Desktop\Programming 2\TP2P1 AppModeImage (Matériel) H21.1.2\AppModeImage (Départ)\Correcteur_ModeImage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Kenji\Desktop\Programming 2\TP2P1 AppModeImage (Matériel) H21.1.2\AppModeImage (Départ)\Correcteur_ModeImage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Kenji\Desktop\Programming 2\TP2P1 AppModeImage (Matériel) H21.1.2\AppModeImage (Départ)\Correcteur_ModeImage\obj\Debug\Correcteur_AppModeImage.csproj.AssemblyReference.cache
+C:\Users\Kenji\Desktop\Programming 2\TP2P1 AppModeImage (Matériel) H21.1.2\AppModeImage (Départ)\Correcteur_ModeImage\obj\Debug\Correcteur_AppModeImage.csproj.CoreCompileInputs.cache
+C:\Users\Kenji\Desktop\Programming 2\TP2P1 AppModeImage (Matériel) H21.1.2\AppModeImage (Départ)\Correcteur_ModeImage\obj\Debug\Correcteur_AppModeImage.csproj.CopyComplete
+C:\Users\Kenji\Desktop\Programming 2\TP2P1 AppModeImage (Matériel) H21.1.2\AppModeImage (Départ)\Correcteur_ModeImage\obj\Debug\UnitTestProject1.dll
+C:\Users\Kenji\Desktop\Programming 2\TP2P1 AppModeImage (Matériel) H21.1.2\AppModeImage (Départ)\Correcteur_ModeImage\obj\Debug\UnitTestProject1.pdb

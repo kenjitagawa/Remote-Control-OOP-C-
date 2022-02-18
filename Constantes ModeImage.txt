@@ -1,0 +1,5 @@
+public const int DÉFAUT_LUMINOSITÉ = 75;
+public const int DÉFAUT_CONTRASTE = 65;
+public const int DÉFAUT_COULEUR = 50;
+public const int DÉFAUT_TEINTE = 0;
+public const int DÉFAUT_NETTETÉ = 5;
